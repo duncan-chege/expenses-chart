@@ -7,14 +7,10 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        display: "DM Sans, sans-serif",
+        "sans": "DM Sans, sans-serif",
       },
       fontSize: {
         base: '18px',
-      },
-      fontWeight: {
-        normal: "400",
-        bold: "700",
       },
       colors: {
         "soft-red": "hsl(10, 79%, 65%)",
