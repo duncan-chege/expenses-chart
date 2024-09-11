@@ -16,7 +16,7 @@ return (
         <p className="font-light pb-1">My balance</p>
         <h3 className="text-3xl font-bold">$921.48</h3>
       </div>
-      <img src="../assets/images/logo.svg" alt="" />
+      <img src="./assets/images/logo.svg" alt="" />
     </div>
 
     <div className="py-6 px-8 rounded-xl bg-pale-orange">
